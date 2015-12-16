@@ -19,6 +19,7 @@ mkdir $PACKAGE-$UPSTREAM_VERSION || exit 1
 
 
 # ---------------------------------------------------------
+cp configure $PACKAGE-$UPSTREAM_VERSION
 mkdir $PACKAGE-$UPSTREAM_VERSION/src
 mkdir $PACKAGE-$UPSTREAM_VERSION/src/ca
 cp src/ca/*.crt   $PACKAGE-$UPSTREAM_VERSION/src/ca
