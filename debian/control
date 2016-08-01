@@ -1,0 +1,20 @@
+Source: nornet-ca
+Section: net
+Priority: optional
+Maintainer: Thomas Dreibholz <dreibh@simula.no>
+Homepage: https://www.nntb.no/
+Build-Depends: debhelper (>= 9),
+               libfile-fcntllock-perl
+Standards-Version: 3.9.7
+X-Python3-Version: >= 3.2
+Vcs-Git: https://github.com/dreibh/nornet-ca.git
+Vcs-Browser: https://github.com/dreibh/nornet-ca/tags
+
+Package: nornet-ca
+Architecture: any
+Depends: ${misc:Depends},
+         ${shlibs:Depends}
+Description: NorNet Root CA
+ This package contains the NorNet Root CA certificate.
+ .
+ See https://www.nntb.no for details on NorNet!

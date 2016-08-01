@@ -1,0 +1,6 @@
+nornet-ca (1.0.1-1ubuntu1) trusty; urgency=high
+
+  * Initial Debian release (Closes: #xxxxxx).
+  * Initial Ubuntu release (LP: #xxxxxx).
+
+ -- Thomas Dreibholz <dreibh@simula.no>  Mon, 01 Aug 2016 08:08:08 +0800
