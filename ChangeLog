@@ -1,3 +1,21 @@
+commit a7f278565f06b2266bbef51ae121e6101e0e3521
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Aug 2 09:44:12 2016 +0200
+
+    An update.
+
+commit 5417fc85fd61564a1422d5421c79c2325ab8a0b1
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Aug 2 09:33:13 2016 +0200
+
+    Updated packaging files.
+
+commit e0bd89c792729e5bb9597150b3eaa1f15f141a37
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Aug 2 09:24:14 2016 +0200
+
+    Added ChangeLog.
+
 commit c5ab9997962ee113ba40ee7a4403f8ee68002367
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Mon Aug 1 17:09:04 2016 +0200
