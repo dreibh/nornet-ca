@@ -1,4 +1,4 @@
-nornet-ca (1.0.1-1ubuntu1) trusty; urgency=high
+nornet-ca (1.0.1-1ubuntu1) xenial; urgency=high
 
   * Initial Debian release (Closes: #xxxxxx).
   * Initial Ubuntu release (LP: #xxxxxx).

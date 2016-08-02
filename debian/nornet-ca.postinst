@@ -4,6 +4,7 @@ set -e
 
 case "$1" in
    configure)
+      ( cat /etc/ca-certificates.conf | grep -v "^.*nornet/NorNet-CA-Level1.crt.*$" ; echo "nornet/NorNet-CA-Level1.crt" ) >/etc/ca-certificates.conf.new && mv /etc/ca-certificates.conf.new /etc/ca-certificates.conf
       update-ca-certificates
       ;;
 esac
