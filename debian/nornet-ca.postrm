@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+   remove|purge|abort-install)
+      update-ca-certificates
+      ;;
+esac
+
+#DEBHELPER#
+
+exit 0

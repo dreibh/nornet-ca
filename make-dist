@@ -19,6 +19,7 @@ mkdir $PACKAGE-$UPSTREAM_VERSION || exit 1
 
 
 # ---------------------------------------------------------
+cp ChangeLog $PACKAGE-$UPSTREAM_VERSION
 cp configure $PACKAGE-$UPSTREAM_VERSION
 mkdir $PACKAGE-$UPSTREAM_VERSION/src
 mkdir $PACKAGE-$UPSTREAM_VERSION/src/ca

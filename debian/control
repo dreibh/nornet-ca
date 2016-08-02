@@ -12,7 +12,8 @@ Vcs-Browser: https://github.com/dreibh/nornet-ca/tags
 
 Package: nornet-ca
 Architecture: any
-Depends: ${misc:Depends},
+Depends: ca-certificates,
+         ${misc:Depends},
          ${shlibs:Depends}
 Description: NorNet Root CA
  This package contains the NorNet Root CA certificate.
