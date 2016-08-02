@@ -1,0 +1,29 @@
+commit c5ab9997962ee113ba40ee7a4403f8ee68002367
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 1 17:09:04 2016 +0200
+
+    Added Ubuntu packaging. Not working yet.
+
+commit e48a146b24eceb73f04725341320a413ed677556
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Dec 21 15:01:42 2015 +0100
+
+    A small fix.
+
+commit 099f1f1c62178b3e05c23bed5c5d1314c0d181e0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Dec 16 16:01:33 2015 +0100
+
+    Package is now building.
+
+commit 90798f4d2666e09f869ec2592881180d33259c29
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Dec 16 15:12:05 2015 +0100
+
+    Script fixes.
+
+commit ca0a67a9859a9de5e2d7fe666c95463f27343cea
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Dec 16 15:05:20 2015 +0100
+
+    Initial package.
