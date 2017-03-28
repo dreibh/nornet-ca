@@ -1,5 +1,5 @@
 Name:          nornet-ca
-Version:       1.0.1
+Version:       1.0.2
 Release:       1
 Summary:       NorNet Root CA
 Group:         Applications/Internet
