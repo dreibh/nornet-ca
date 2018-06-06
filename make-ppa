@@ -1,5 +1,5 @@
 #!/bin/bash
 
 ./clean-deb && \
-./make-deb precise trusty xenial zesty artful bionic && \
+./make-deb precise trusty xenial zesty artful bionic cosmic && \
 dput ppa *.changes
