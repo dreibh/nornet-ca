@@ -1,3 +1,82 @@
+commit ab8296ca1208b6921ab4bef9bbe9be1b8a38c803
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Feb 19 15:51:28 2019 +0100
+
+    Build script updates.
+
+commit c3839093f8b3b1121ef10ec5f5064760dd2d13b4
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 6 14:16:28 2018 +0200
+
+    Script updates.
+
+commit f5af7a3a30fafcab4d06dd739f9121d73d2c896c
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 6 14:16:22 2018 +0200
+
+    Build file updates.
+
+commit 67c8459c255fb642a1929493be7c18a42de9b3df
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Oct 31 20:49:16 2017 +0100
+
+    Version bump.
+
+commit 3287d48ddb244381dd2665e05971987d7d270914
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Oct 31 10:58:38 2017 +0100
+
+    Version bump.
+
+commit c7f50aa73e5b3d4c2cb97e2942be23031d7d6659
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Oct 31 10:56:49 2017 +0100
+
+    Script update.
+
+commit 753575068e397b14b4af131e92c001d69b0d3b70
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Apr 28 12:00:20 2017 +0200
+
+    A fix.
+
+commit 344aafffa07c76faee3126fc21c993a9418155ec
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Apr 28 11:58:12 2017 +0200
+
+    Version bump.
+
+commit dd42242c8ada1a24aa904b19e59fe7eb908b92ce
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Apr 28 11:57:44 2017 +0200
+
+    Script update.
+
+commit fc19975f3d4f44c1d5c0926e1bb31046caedf5f4
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Mar 28 09:40:40 2017 +0200
+
+    Version bump.
+
+commit 33cf1fa32e59221977afa5c1a2edce6e231245b0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Aug 2 09:48:26 2016 +0200
+
+    Added packaging script.
+
+commit 51594947169d2bc6f043c056c6654f1c8c92fd67
+Merge: c4cc26f 103211f
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Aug 2 09:47:32 2016 +0200
+
+    Merge branch 'master' of github.com:dreibh/nornet-ca
+
+commit c4cc26f9da571c1d5b4efc3cea5dee3f307efc20
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Aug 2 09:46:59 2016 +0200
+
+    Updated ChangeLog.
+
 commit a7f278565f06b2266bbef51ae121e6101e0e3521
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Tue Aug 2 09:44:12 2016 +0200
@@ -21,6 +100,19 @@ Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Mon Aug 1 17:09:04 2016 +0200
 
     Added Ubuntu packaging. Not working yet.
+
+commit f20e7f91a02709d59518ec0d5579baebdbbab8c9
+Author: aaaaalbert <aaaaalbert@users.noreply.github.com>
+Date:   Fri Jun 10 15:52:13 2016 +0200
+
+    Fixes links to paper PDFs files in README
+    
+    There are BibTeX files available from simula.no as well, although they seem to be less complete than nntb.no's versions.
+    
+    Anyway, I'll list them below for completeness' sake:
+    * https://www.simula.no/biblio/export/bibtex/21556
+    * https://www.simula.no/biblio/export/bibtex/20535
+    * https://www.simula.no/biblio/export/bibtex/21093
 
 commit e48a146b24eceb73f04725341320a413ed677556
 Author: Thomas Dreibholz <dreibh@simula.no>
