@@ -5,7 +5,7 @@ Maintainer: Thomas Dreibholz <dreibh@simula.no>
 Homepage: https://www.nntb.no/
 Build-Depends: debhelper (>= 9),
                libfile-fcntllock-perl
-Standards-Version: 4.1.4
+Standards-Version: 4.3.0
 Vcs-Git: https://github.com/dreibh/nornet-ca.git
 Vcs-Browser: https://github.com/dreibh/nornet-ca/tags
 
