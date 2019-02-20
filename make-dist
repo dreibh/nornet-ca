@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-. ./rpm.conf
+. ./packaging.conf
 
 
 PACKAGE=`grep "^Name:" rpm/*.spec | head -n1 | sed -e "s/Name://g" -e "s/[ \t]*//g"`
