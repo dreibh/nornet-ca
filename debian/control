@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/dreibh/nornet-ca.git
 Vcs-Browser: https://github.com/dreibh/nornet-ca/tags
 
 Package: nornet-ca
-Architecture: any
+Architecture: all
 Depends: ca-certificates,
          ${misc:Depends},
          ${shlibs:Depends}
