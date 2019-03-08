@@ -36,7 +36,7 @@ update-ca-trust
 [ "$RPM_BUILD_ROOT" -a "$RPM_BUILD_ROOT" != / ] && rm -rf "$RPM_BUILD_ROOT"
 
 %files
-/usr/share/pki/ca-trust-source/anchors/NorNet-CA-Level1.crt
+%{_datadir}/pki/ca-trust-source/anchors/NorNet-CA-Level1.crt
 
 %doc
 
