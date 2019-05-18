@@ -6,11 +6,11 @@ matrix:
    # ###### Ubuntu Linux ####################################################
 
    # ====== Ubuntu 19.04 (Disco Dingo) ======================================
-   - name: "Ubuntu 19.04 (Disco Dingo) with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="ubuntu:disco" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Ubuntu 19.04 (Disco Dingo) with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="ubuntu:disco" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Ubuntu 19.04 (Disco Dingo) with Clang"
      #os: linux
      #dist: xenial
@@ -22,11 +22,11 @@ matrix:
      env: DOCKER="ubuntu:disco" VARIANT="ubuntu" TOOL="pbuilder"
 
    # ====== Ubuntu 18.10 (Cosmic Cuttlefish) ================================
-   - name: "Ubuntu 18.10 (Cosmic Cuttlefish) with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="ubuntu:cosmic" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Ubuntu 18.10 (Cosmic Cuttlefish) with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="ubuntu:cosmic" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Ubuntu 18.10 (Cosmic Cuttlefish) with Clang"
      #os: linux
      #dist: xenial
@@ -38,11 +38,11 @@ matrix:
      env: DOCKER="ubuntu:cosmic" VARIANT="ubuntu" TOOL="pbuilder"
 
    # ====== Ubuntu 18.04 (Bionic Beaver) ====================================
-   - name: "Ubuntu 18.04 (Bionic Beaver) with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="ubuntu:bionic" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Ubuntu 18.04 (Bionic Beaver) with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="ubuntu:bionic" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Ubuntu 18.04 (Bionic Beaver) with Clang"
      #os: linux
      #dist: xenial
@@ -55,11 +55,11 @@ matrix:
      env: DOCKER="ubuntu:bionic" VARIANT="ubuntu" TOOL="pbuilder"
 
    # ====== Ubuntu 16.04 (Xenial Xerus) =====================================
-   - name: "Ubuntu 16.04 (Xenial Xerus) with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="ubuntu:xenial" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Ubuntu 16.04 (Xenial Xerus) with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="ubuntu:xenial" VARIANT="ubuntu" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Ubuntu 16.04 (Xenial Xerus) with Clang"
      #os: linux
      #dist: xenial
@@ -75,11 +75,11 @@ matrix:
     # ###### Debian Linux ###################################################
 
     # ====== Debian Testing =================================================
-   - name: "Debian Testing with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="debian:testing" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Debian Testing with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="debian:testing" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Debian Testing with Clang"
      #os: linux
      #dist: xenial
@@ -109,11 +109,11 @@ matrix:
      env: DOCKER="debian:sid" VARIANT="debian" TOOL="pbuilder"
 
    # ====== Debian Buster ===================================================
-   - name: "Debian Buster with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="debian:buster" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Debian Buster with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="debian:buster" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Debian Buster with Clang"
      #os: linux
      #dist: xenial
@@ -126,11 +126,11 @@ matrix:
      env: DOCKER="debian:buster" VARIANT="debian" TOOL="pbuilder"
 
    # ====== Debian Stretch ==================================================
-   - name: "Debian Stretch with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="debian:stretch" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Debian Stretch with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="debian:stretch" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Debian Stretch with Clang"
      #os: linux
      #dist: xenial
@@ -146,11 +146,11 @@ matrix:
    # ###### Fedora Linux ###################################################
 
    # ====== Fedora 30 =======================================================
-   - name: "Fedora 30 with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="fedora:30" VARIANT="fedora" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Fedora 30 with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="fedora:30" VARIANT="fedora" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Fedora 30 with Clang"
      #os: linux
      #dist: xenial
@@ -163,11 +163,11 @@ matrix:
      env: DOCKER="fedora:30" VARIANT="fedora" TOOL="mock"
 
    # ====== Fedora 29 =======================================================
-   - name: "Fedora 29 with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="fedora:29" VARIANT="fedora" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Fedora 29 with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="fedora:29" VARIANT="fedora" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Fedora 29 with Clang"
      #os: linux
      #dist: xenial
@@ -180,11 +180,11 @@ matrix:
      env: DOCKER="fedora:29" VARIANT="fedora" TOOL="mock"
 
    # ====== Fedora 28 =======================================================
-   - name: "Fedora 28 with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="fedora:28" VARIANT="fedora" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Fedora 28 with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="fedora:28" VARIANT="fedora" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Fedora 28 with Clang"
      #os: linux
      #dist: xenial
