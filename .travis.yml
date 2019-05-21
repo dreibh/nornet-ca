@@ -92,11 +92,11 @@ matrix:
      env: DOCKER="debian:testing" VARIANT="debian" TOOL="pbuilder"
 
    # ====== Debian Sid ======================================================
-   - name: "Debian Sid with GCC"
-     os: linux
-     dist: xenial
-     group: travis_latest
-     env: DOCKER="debian:sid" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
+   #- name: "Debian Sid with GCC"
+     #os: linux
+     #dist: xenial
+     #group: travis_latest
+     #env: DOCKER="debian:sid" VARIANT="debian" TOOL="compile" COMPILER_C="gcc" COMPILER_CXX="g++"
    #- name: "Debian Sid with Clang"
      #os: linux
      #dist: xenial
