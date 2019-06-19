@@ -1,3 +1,9 @@
+commit a52defe90fae4eb064dd4ae23f87808a72c2eea9
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Jun 18 13:37:40 2019 +0200
+
+    Using CMake for packaging.
+
 commit 7b29ed04d99bafdaca46fcf9e30216fbe0ec7c18
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Thu Jun 13 13:27:33 2019 +0200
