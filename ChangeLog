@@ -1,3 +1,39 @@
+commit 6b76238e0da0cb0c010716a4b1d19c9fccf4ff22
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 13:57:47 2019 +0200
+
+    A fix.
+
+commit 86e9181bf7dda02f7258855b0d1a1a49377c3803
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 13:56:48 2019 +0200
+
+    Updated Travis CI configuration.
+
+commit d084ae0cec16900df03cd34bf4ceb7f6e0b8024c
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 13:52:53 2019 +0200
+
+    Fix to support Ubuntu 12.04.
+
+commit 646da98bb2d4e17709e616f98a16dd9f6c60c0b2
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 13:52:39 2019 +0200
+
+    Updated CI scripts.
+
+commit 998105780a2743da330821ac98b103301f28a616
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 09:44:42 2019 +0200
+
+    A fix.
+
+commit ae1692444913e9bb90bcf284c8fbaa377da62ec0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 09:42:04 2019 +0200
+
+    New release 1.1.0.
+
 commit a52defe90fae4eb064dd4ae23f87808a72c2eea9
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Tue Jun 18 13:37:40 2019 +0200
