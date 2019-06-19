@@ -1,10 +1,10 @@
-Name:          nornet-ca
+Name: nornet-ca
 Version: 1.1.1~rc1
 Release: 1
-Summary:       NorNet Root CA
-Group:         Applications/Internet
-License:       GPLv3
-Source:        %{name}-%{version}.tar.gz
+Summary: NorNet Root CA
+Group: Applications/Internet
+License: GPLv3
+Source: %{name}-%{version}.tar.gz
 
 AutoReqProv:   on
 BuildRequires: cmake
