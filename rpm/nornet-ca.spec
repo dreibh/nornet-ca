@@ -8,6 +8,7 @@ Source:        %{name}-%{version}.tar.xz
 
 AutoReqProv:   on
 BuildRequires: cmake
+BuildRequires: gcc
 BuildArch:     noarch
 BuildRoot:     %{_tmppath}/%{name}-%{version}-build
 Requires:      ca-certificates
