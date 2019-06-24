@@ -17,7 +17,7 @@
 # Contact: dreibh@simula.no
 
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
-PROJECT(nornet-ca LANGUAGES C)
+PROJECT(nornet-ca C)
 
 SET(BUILD_MAJOR "1")
 SET(BUILD_MINOR "1")
