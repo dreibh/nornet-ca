@@ -1,3 +1,46 @@
+commit 7f077fb876a53065508608ad5887442ebd78f271
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Jun 24 17:24:16 2019 +0200
+
+    Updated build scripts.
+
+commit 93798d9bc5c75dfc7016e7510998bd23d8accaf1
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Jun 24 17:19:26 2019 +0200
+
+    A fix.
+
+commit e677169d8fb2c443b4b504c533273b776f8319ff
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Jun 24 14:10:08 2019 +0200
+
+    Updated build scripts.
+
+commit f67c127422344710530f3a3dff4804da2004424d
+Merge: e2ccec9 eb1ef8f
+Author: Thomas Dreibholz <dreibh@iem.uni-due.de>
+Date:   Fri Jun 21 10:35:53 2019 +0200
+
+    Merge branch 'master' into dreibh/cmake
+
+commit e2ccec9816cef35c669b5e14704e6c3685229ac6
+Author: Thomas Dreibholz <dreibh@iem.uni-due.de>
+Date:   Fri Jun 21 10:05:30 2019 +0200
+
+    Dependency fix.
+
+commit a5901bcd2431946daa25ed9ea23048f005299a0f
+Author: Thomas Dreibholz <dreibh@iem.uni-due.de>
+Date:   Fri Jun 21 09:27:20 2019 +0200
+
+    Fix for Fedora build.
+
+commit eb1ef8fde6e670b75ba1f1202880f50dfe89922d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Jun 19 15:19:34 2019 +0200
+
+    New release 1.1.1.
+
 commit 6b76238e0da0cb0c010716a4b1d19c9fccf4ff22
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Wed Jun 19 13:57:47 2019 +0200
