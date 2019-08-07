@@ -16,6 +16,7 @@ Depends: ca-certificates,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: NorNet Root CA
- This package contains the NorNet Root CA certificate.
+ This package contains the
+ NorNet Root CA certificate.
  .
  See https://www.nntb.no for details on NorNet!
