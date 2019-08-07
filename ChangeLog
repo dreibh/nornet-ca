@@ -1,3 +1,57 @@
+commit 2a524a647cc66516c723a0623ae4e1a18a567204
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Aug 7 18:32:04 2019 +0200
+
+    Some Lintian warning fixes.
+
+commit 03931c5c9e5e0093c33887c3c4ac17afdf2627f2
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Aug 7 10:33:04 2019 +0200
+
+    Fixed some inconsistencies in different packaging files.
+
+commit c8a5e831db44f079a04ce3f5e7839093413ea79d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Aug 7 10:04:34 2019 +0200
+
+    Updated build scripts.
+
+commit f630b77d9cad0187749111e507ae274720bcf3c0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 5 22:06:50 2019 +0200
+
+    Updated CI scripts.
+
+commit a0051c9b88726c437b7b8c6f90bc9fad7108509e
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 5 17:00:41 2019 +0200
+
+    Updated Debian Standards version.
+
+commit 4f73deb94edb847a50c3f56fff9442e75b7e4699
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 5 15:11:17 2019 +0200
+
+    Updated Travis CI configuration.
+
+commit bced3bdbec9edb2e55c6054e2429b2f5b8707634
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 5 15:05:27 2019 +0200
+
+    Build script updates.
+
+commit 4d55b64ae81d558a662d0ae6322a2e345de99473
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Jun 27 21:40:59 2019 +0200
+
+    A fix.
+
+commit 6b3a9cef9250e798e2945678792a6b2d140f2ba8
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Jun 27 21:39:36 2019 +0200
+
+    New release 1.1.2.
+
 commit 7f077fb876a53065508608ad5887442ebd78f271
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Mon Jun 24 17:24:16 2019 +0200
