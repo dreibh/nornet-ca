@@ -1,3 +1,9 @@
+nornet-ca (1.1.5-1ubuntu1) disco; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Dreibholz <dreibh@iem.uni-due.de>  Wed, 07 Aug 2019 19:33:25 +0200
+
 nornet-ca (1.1.4-1ubuntu1) disco; urgency=medium
 
   * New upstream release.
