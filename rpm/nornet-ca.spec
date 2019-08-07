@@ -3,7 +3,7 @@ Version: 1.1.2
 Release: 1
 Summary: NorNet Root CA
 Group: Applications/Internet
-License: GPLv3
+License: GPL-3+
 Source: %{name}-%{version}.tar.gz
 
 AutoReqProv:   on
