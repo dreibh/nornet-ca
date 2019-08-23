@@ -1,3 +1,93 @@
+commit a30371d5c1b05af063621bd7edf4da66d5aa5eee
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Aug 22 10:42:20 2019 +0200
+
+    Removed obsolete script.
+
+commit 6d366d5f9e10910654e5c6c9cf87f242209abf3d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Aug 22 10:06:55 2019 +0200
+
+    Updated build helper script.
+
+commit b59d0adcc3ca860dc3987b1869e3d853d9ed8d1d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Aug 22 10:05:35 2019 +0200
+
+    Updated Travis CI configuration
+
+commit 3d993970bc349058e9e59eb3f95ce4cfef2004e0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Aug 22 10:05:35 2019 +0200
+
+    Updated build scripts
+
+commit d2068ec95b1bb9cc1643cb74ab8f5ed41ba4eba5
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Aug 22 10:05:35 2019 +0200
+
+    Updated build scripts
+
+commit f8cc85d11a62d0815b231164ed2467496ce8fcc0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 19 11:34:01 2019 +0200
+
+    Updated Travis CI configuration.
+
+commit e042c596bc44f910c12450122e042cc47e916797
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 19 11:27:05 2019 +0200
+
+    Updated build helper script.
+
+commit 3b9c71b22711ea8e2edbf5f9024baf75c946e222
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 19 11:01:12 2019 +0200
+
+    Updated build scripts.
+
+commit a0b220001fc03f9b7b0b904e080a4b29e24c9955
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 19 11:01:04 2019 +0200
+
+    Updated build helper script.
+
+commit e8758ca8b3aac9293674186ec3e52efab2343490
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 19 10:59:33 2019 +0200
+
+    Updated CI scripts.
+
+commit 65483814aec015a2a844c77116bb3510d225057f
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Aug 14 09:51:34 2019 +0200
+
+    Updated CI scripts.
+
+commit 832f034d1ded29dd13a09c1b59664c62b4ed7623
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 12 15:30:31 2019 +0200
+
+    Updated build script.
+
+commit 808697e427b156404a6f1de15bc0158d8a19972a
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 12 15:29:48 2019 +0200
+
+    Removed Ubuntu Cosmic from Travis CI builds, since it is deprecated.
+
+commit 575b269a87d6c7d0e78e7d8f78b70a5aa07258f5
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Aug 12 09:05:37 2019 +0200
+
+    Improved Travis CI configuration.
+
+commit 349de8c91769fce1d5555c7b7703b82e93d75882
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Aug 7 19:33:27 2019 +0200
+
+    New release nornet-ca-1.1.5.
+
 commit 26de589b96dbefd85628ab3cc2898c63065b0297
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Wed Aug 7 19:33:17 2019 +0200

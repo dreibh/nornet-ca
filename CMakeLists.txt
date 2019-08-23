@@ -21,7 +21,7 @@ PROJECT(nornet-ca C)
 
 SET(BUILD_MAJOR "1")
 SET(BUILD_MINOR "1")
-SET(BUILD_PATCH "5")
+SET(BUILD_PATCH "6")
 SET(BUILD_VERSION ${BUILD_MAJOR}.${BUILD_MINOR}.${BUILD_PATCH})
 
 
@@ -37,7 +37,8 @@ INCLUDE(GNUInstallDirs)
 # PACKAGING
 #############################################################################
 
-SET(CPACK_SOURCE_GENERATOR "TXZ")
+# NOTE: Tar/GZip build necessary for Ubuntu Precise (no support for Tar/XZ!)
+SET(CPACK_SOURCE_GENERATOR "TGZ")
 SET(CPACK_SOURCE_PACKAGE_FILE_NAME
    "${CMAKE_PROJECT_NAME}-${BUILD_MAJOR}.${BUILD_MINOR}.${BUILD_PATCH}")
 SET(CPACK_SOURCE_IGNORE_FILES

@@ -1,10 +1,10 @@
 Name: nornet-ca
-Version: 1.1.5
+Version: 1.1.6
 Release: 1
 Summary: NorNet Root CA
 Group: Applications/Internet
 License: GPL-3+
-Source: %{name}-%{version}.tar.xz
+Source: %{name}-%{version}.tar.gz
 
 AutoReqProv:   on
 BuildRequires: cmake
@@ -37,6 +37,8 @@ update-ca-trust
 
 
 %changelog
+* Fri Aug 23 2019 Thomas Dreibholz <dreibh@iem.uni-due.de> - 1.1.6
+- New upstream release.
 * Wed Aug 07 2019 Thomas Dreibholz <dreibh@iem.uni-due.de> - 1.1.5
 - New upstream release.
 * Wed Aug 07 2019 Thomas Dreibholz <dreibh@simula.no> - 1.1.4
