@@ -22,10 +22,10 @@ This package installs the NorNet Root CA certificate.
 
 %build
 %cmake -DCMAKE_INSTALL_PREFIX=/usr .
-make %{?_smp_mflags}
+%cmake_build
 
 %install
-make DESTDIR=%{buildroot} install
+%cmake_install
 mkdir -p %{buildroot}/usr/share/pki/ca-trust-source/anchors
 mv %{buildroot}/usr/share/ca-certificates/nornet/NorNet-CA-Level1.crt %{buildroot}/usr/share/pki/ca-trust-source/anchors/
 
