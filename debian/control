@@ -6,7 +6,8 @@ Homepage: https://www.nntb.no/
 Build-Depends: cmake,
                debhelper (>= 9),
                libfile-fcntllock-perl
-Standards-Version: 4.4.1.1
+Standards-Version: 4.5.0.3
+Rules-Requires-Root: no
 Vcs-Git: https://github.com/dreibh/nornet-ca.git
 Vcs-Browser: https://github.com/dreibh/nornet-ca/tags
 
