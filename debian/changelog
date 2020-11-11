@@ -1,4 +1,4 @@
-nornet-ca (1.1.8~rc1-1ubuntu1) disco; urgency=medium
+nornet-ca (1.1.8~rc1-1ubuntu1) hirsute; urgency=medium
 
   * New upstream release.
   * debian/control: Updated standards version to 4.5.0.3.
