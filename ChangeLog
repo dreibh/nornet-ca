@@ -1,3 +1,190 @@
+commit 0a940e7ae80d0fba3b9c31aa27a96c36187c52b1
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Nov 13 10:24:50 2020 +0100
+
+    Updated Travis CI configuration.
+
+commit 99d6bed41b6a1de4e17f6d6634f42a99907f52d0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 11 23:23:59 2020 +0100
+
+    Minor update.
+
+commit 1cf8da8df59d1870d292572e4332d7b274be7e37
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 11 22:25:44 2020 +0100
+
+    Version bump.
+
+commit 7905a49106083af0f09cc9f0e3af759c5260d80c
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 11 21:06:01 2020 +0100
+
+    Packaging update.
+
+commit 51408d7e8a78216897dd666a81549fa6b695989d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 11 20:36:38 2020 +0100
+
+    Updated build scripts
+
+commit 748add31699e3f4544513e6cc4a804c04bd0c150
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 11 13:01:17 2020 +0100
+
+    Updated build scripts
+
+commit 50b7e4701b2541fc993b09bc2558fc10a8a2e754
+Merge: d1b696d f16d835
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Nov 10 14:50:26 2020 +0100
+
+    Merge branch 'master' of github.com:dreibh/nornet-ca
+
+commit d1b696d83d7ea7d881e196a1f0f8f6485f14200d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Nov 10 14:50:11 2020 +0100
+
+    Version bump.
+
+commit f16d8352cf684b03b0dd34bea1909120671b56cf
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Nov 5 17:09:54 2020 +0100
+
+    Updated build scripts
+
+commit 8f458bb109a0ec1b2ff95b7f8f2332920eb46047
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Sep 30 17:04:55 2020 +0200
+
+    Updated RPM spec file.
+
+commit 7429737523acdf3dbae5a4ca913486002f4f2a7f
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Sep 30 16:55:42 2020 +0200
+
+    Updated build scripts
+
+commit 77cc374a7a4c9df1a7d42022c1b141c63f5ad397
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Sep 10 12:41:21 2020 +0200
+
+    Updated build scripts
+
+commit 2ab28479a97cab603acf7d27c75632cd8779d8d6
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Sep 10 12:41:11 2020 +0200
+
+    Updated packaging configuration.
+
+commit 497244f74e5095439bbc49fe51ab028d03dc2ac0
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Sep 10 12:36:38 2020 +0200
+
+    Updated signing key.
+
+commit b480e2f8ab4dbf2924fda02d7631674c41c0615b
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Sep 4 14:15:28 2020 +0200
+
+    Updated build scripts
+
+commit c32b7d934a6908216bc8cc8c30580ce1485edc9d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Sep 4 14:11:58 2020 +0200
+
+    Updated Travis CI configuration.
+
+commit c51b4a975654195f1d1bf3f1b8010d3c27ee3fff
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Sep 4 14:09:51 2020 +0200
+
+    Updated build scripts
+
+commit f2f5a1935cab1ea37f692f269f918546263a821d
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Sat Jul 18 15:55:56 2020 +0200
+
+    Updated build scripts
+
+commit 9c7b83443bea6badf46a37df0a3cbc6eac170e01
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed May 6 22:02:24 2020 +0200
+
+    Updated build scripts
+
+commit f698b6e2a816703c537dfb31efb328acd57588ba
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed May 6 22:02:23 2020 +0200
+
+    Updated build scripts
+
+commit bd2f9108e1f063afbe54c7ad2b8ab70688bdebc9
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Apr 17 11:30:57 2020 +0200
+
+    Updated Travis CI configuration for Ubuntu builds.
+
+commit a8e7e547f0d9860d5007fc6e1d168f66ad6c026e
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Apr 16 11:42:55 2020 +0200
+
+    Updated Travis CI configuration: Ubuntu 19.04 (Disco Dingo) is now obsolete.
+
+commit 69a398c9370d66ddb4b50af935f8c27e4713996a
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Apr 14 19:04:43 2020 +0200
+
+    Updated build scripts
+
+commit b6d068b2e0c418ac7658c0961828c70ccb4166c2
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Mar 26 09:56:53 2020 +0100
+
+    Updated build scripts
+
+commit 8ff96bffaeac623725bc9580ad3c55ae4a1f47bd
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Feb 7 13:38:29 2020 +0100
+
+    Updated build scripts
+
+commit 578775d6b113315e86a9509a3e1cb159e2d957c9
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Dec 5 13:19:18 2019 +0100
+
+    Updated Travis CI configuration: added Ubuntu 20.04.
+
+commit 16fda16db68222121064160c2df50487a39e6036
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Dec 5 12:32:20 2019 +0100
+
+    Updated Travis CI configuration: removed Fedora 29, added Fedora 31.
+
+commit aabb066cc2990383794a635e187c8f732e0e9a9e
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Dec 5 12:19:47 2019 +0100
+
+    Header updates.
+
+commit eed20e04bcc8957821288bb79641ccabe26786e1
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Dec 5 12:15:09 2019 +0100
+
+    Updated build scripts
+
+commit 65f4b4a59dda46e7e91470b57d60fc59bbd08967
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Dec 5 12:15:09 2019 +0100
+
+    Updated build scripts
+
+commit 6386e4dbcedfead6aac5d2da9c0548dbde660806
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Nov 7 15:21:51 2019 +0100
+
+    New release nornet-ca-1.1.7.
+
 commit 7af65d71820ce70d4dc6361bee2ec32243331181
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Fri Oct 18 12:26:40 2019 +0200
