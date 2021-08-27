@@ -1,5 +1,5 @@
 Name: nornet-ca
-Version: 1.1.8
+Version: 1.1.9
 Release: 1
 Summary: NorNet Root CA
 Group: Applications/Internet
@@ -37,6 +37,8 @@ update-ca-trust
 
 
 %changelog
+* Fri Aug 27 2021 Thomas Dreibholz <dreibh@simula.no> - 1.1.9
+- New upstream release.
 * Fri Nov 13 2020 Thomas Dreibholz <dreibh@simula.no> - 1.1.8
 - New upstream release.
 * Thu Nov 07 2019 Thomas Dreibholz <dreibh@iem.uni-due.de> - 1.1.7

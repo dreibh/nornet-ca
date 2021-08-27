@@ -1,3 +1,87 @@
+commit a729f24621940ae708b0d34f9be1c760bb5c3b2b
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon May 3 21:22:02 2021 +0200
+
+    Updated build scripts
+
+commit 45bdf9aa0bc7e10ee9465a30ca8beaa27b0926a7
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Mar 5 18:52:37 2021 +0100
+
+    Updated Travis CI configuration
+
+commit 6004027a1b02be1c551043a8961d2a92b74fd60b
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Mar 5 16:01:45 2021 +0100
+
+    Updated build scripts
+
+commit 72676485fbabe624ffa62502a5b4fc79f54dc688
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Mar 3 19:41:47 2021 +0100
+
+    Updated script.
+
+commit dc7925951b09c87816bf32c39ec639bbd71c3be4
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Mar 1 21:20:30 2021 +0100
+
+    Updated build scripts
+
+commit 9036424f7a13761d4c7211a2343ad53bc8ce4627
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Mar 1 16:30:36 2021 +0100
+
+    Updated build scripts
+
+commit 430083af194c8c4faeeddf3cefbcbbace999b373
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Mar 1 16:13:22 2021 +0100
+
+    Improved autogen.sh with options for static analysis.
+
+commit e26d21c14a466968c47f423ccdd35ed34898a16a
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Feb 17 15:19:07 2021 +0100
+
+    Updated build scripts
+
+commit f44ac348e7f1f6be974d7c83f8ead77911b9d275
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Feb 17 15:19:07 2021 +0100
+
+    Updated build scripts
+
+commit 985da22db136d3b63896cba0e76013e571624020
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Feb 17 15:17:37 2021 +0100
+
+    Updated build scripts
+
+commit ab49f6d319cf3be68fad7edb3fbe6896298d2415
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Feb 17 15:17:37 2021 +0100
+
+    Updated build scripts
+
+commit c5c3614f7025c094d780cdc352de84d9974c73cb
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Feb 17 15:16:37 2021 +0100
+
+    Header updates.
+
+commit 9bc4195f602f49a6a9365796e273dd61374f59cf
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Sat Jan 30 07:40:00 2021 +0100
+
+    Updated Travis CI configuration
+
+commit 6870d097464bc2161e1e466906a57fbc630e7045
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Nov 13 19:01:01 2020 +0100
+
+    New release nornet-ca-1.1.8.
+
 commit 0a940e7ae80d0fba3b9c31aa27a96c36187c52b1
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Fri Nov 13 10:24:50 2020 +0100
