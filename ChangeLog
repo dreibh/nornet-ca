@@ -1,3 +1,15 @@
+commit b28528210a850d98e8c9b3a448b9f2766b807d0e
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Tue Oct 19 15:56:40 2021 +0200
+
+    Updated build scripts
+
+commit 3286ac756c1bddd2a9dab0dd0713f95a9e199bbf
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Fri Aug 27 13:33:16 2021 +0200
+
+    New release nornet-ca-1.1.9.
+
 commit a729f24621940ae708b0d34f9be1c760bb5c3b2b
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Mon May 3 21:22:02 2021 +0200

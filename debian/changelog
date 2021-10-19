@@ -1,3 +1,9 @@
+nornet-ca (1.1.10-1ubuntu1) hirsute; urgency=medium
+
+  * New upstream release.
+
+ -- Thomas Dreibholz <dreibh@simula.no>  Tue, 19 Oct 2021 15:56:50 +0200
+
 nornet-ca (1.1.9-1ubuntu1) hirsute; urgency=medium
 
   * New upstream release.
