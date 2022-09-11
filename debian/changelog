@@ -1,3 +1,10 @@
+nornet-ca (1.1.11-1ubuntu1) hirsute; urgency=medium
+
+  * New upstream release.
+  * debian/control: Updated standards version to 4.6.1.
+
+ -- Thomas Dreibholz <dreibh@simula.no>  Sun, 11 Sep 2022 13:40:06 +0200
+
 nornet-ca (1.1.10-1ubuntu1) hirsute; urgency=medium
 
   * New upstream release.

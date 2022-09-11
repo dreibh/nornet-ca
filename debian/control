@@ -6,7 +6,7 @@ Homepage: https://www.nntb.no/
 Build-Depends: cmake,
                debhelper (>= 9),
                libfile-fcntllock-perl
-Standards-Version: 4.6.0.1
+Standards-Version: 4.6.1
 Rules-Requires-Root: no
 
 Package: nornet-ca
