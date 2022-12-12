@@ -26,7 +26,7 @@ SET(BUILD_VERSION ${BUILD_MAJOR}.${BUILD_MINOR}.${BUILD_PATCH})
 
 
 #############################################################################
-# INSTALLATION_DIRECTORIES
+#### INSTALLATION_DIRECTORIES                                            ####
 #############################################################################
 
 # See: https://cmake.org/cmake/help/v3.0/module/GNUInstallDirs.html
@@ -34,7 +34,7 @@ INCLUDE(GNUInstallDirs)
 
 
 #############################################################################
-# PACKAGING
+#### PACKAGING                                                           ####
 #############################################################################
 
 # NOTE: Tar/GZip build necessary for Ubuntu Precise (no support for Tar/XZ!)
@@ -49,7 +49,7 @@ ADD_CUSTOM_TARGET(dist COMMAND ${CMAKE_MAKE_PROGRAM} clean package_source)
 
 
 #############################################################################
-# SOURCE DIRECTORIES
+#### SOURCE DIRECTORIES                                                  ####
 #############################################################################
 
 ADD_SUBDIRECTORY(src)
