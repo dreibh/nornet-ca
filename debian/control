@@ -4,16 +4,14 @@ Priority: optional
 Maintainer: Thomas Dreibholz <dreibh@simula.no>
 Homepage: https://www.nntb.no/
 Build-Depends: cmake,
-               debhelper (>= 12),
-               libfile-fcntllock-perl
+               debhelper (>= 12)
 Standards-Version: 4.6.2
 Rules-Requires-Root: no
 
 Package: nornet-ca
 Architecture: all
 Depends: ca-certificates,
-         ${misc:Depends},
-         ${shlibs:Depends}
+         ${misc:Depends}
 Description: NorNet Root CA
  This package contains the
  NorNet Root CA certificate.
