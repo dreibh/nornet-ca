@@ -1,3 +1,57 @@
+commit 6869fac5cfa5d9f28fdbc4e48628bb157a61e056
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Dec 6 15:40:17 2023 +0100
+
+    Added Lintian override for long lines.
+
+commit d98bbf224bd4b114f71e1c846c6a70ef5c53ceb2
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 15 11:42:31 2023 +0100
+
+    Dependency improvements.
+
+commit a78dc7aca9da18ba6f9d465e1cb8250ed1dd82e3
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 15 10:53:51 2023 +0100
+
+    Packaging clean-ups.
+
+commit 94445bf0b0eb57a2cda57a9908a591289acb8bde
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 15 09:53:31 2023 +0100
+
+    Header updates.
+
+commit 04b63383c92786f8bcf5c5c30ddb5ec7e44b4502
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 15 09:51:09 2023 +0100
+
+    Updated build scripts
+
+commit ec59a31c19e506cdbb233e616d1319340f997740
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 15 09:33:10 2023 +0100
+
+    Updated CI scripts
+
+commit 749a33c54a3b7610a3ddce5953a4b9b535fd8f3a
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Nov 15 09:33:07 2023 +0100
+
+    Updated build scripts
+
+commit b6ddb6bae2bb59c6caca1664e6b0449c0e24bbcc
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Mon Dec 12 13:29:58 2022 +0100
+
+    Minor CMakeLists.txt updates.
+
+commit e6f5df8b6efc5c37682388a36294fd2ebd71ad53
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Sun Sep 11 13:40:11 2022 +0200
+
+    New release nornet-ca-1.1.11.
+
 commit 59cd1e87f3180831485693b039a8e7fd8a2dff2e
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Wed Aug 31 11:47:27 2022 +0200
