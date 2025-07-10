@@ -1,3 +1,33 @@
+commit 8eab55c8a2739ea0417437e85114e5d2887e68ab
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Jul 10 13:12:23 2025 +0200
+
+    Some clean-ups.
+
+commit f908792c57a82312dcb79e5102301aba1b63801f
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Jul 10 13:09:41 2025 +0200
+
+    Updated CI scripts
+
+commit 7c1e606815771b2a326690ef9ea376d5af2c10f3
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Jul 10 13:09:40 2025 +0200
+
+    Updated build scripts
+
+commit e494958a600d8f21e3675a25335d25b197425524
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Thu Dec 7 10:20:34 2023 +0100
+
+    Updated packaging configuration.
+
+commit 7bffee92fdc95e5fd228e23cafef7478517e4e10
+Author: Thomas Dreibholz <dreibh@simula.no>
+Date:   Wed Dec 6 16:54:57 2023 +0100
+
+    New release nornet-ca-1.1.12.
+
 commit 6869fac5cfa5d9f28fdbc4e48628bb157a61e056
 Author: Thomas Dreibholz <dreibh@simula.no>
 Date:   Wed Dec 6 15:40:17 2023 +0100
